@@ -1,0 +1,5 @@
+---
+citrix_adc:
+  hosts:
+    citrix_adc01:
+      ansible_host: 192.168.24.80
